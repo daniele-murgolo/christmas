@@ -1,0 +1,64 @@
+site_name: Christmas Wish List
+site_author: Daniele Murgolo
+site_description: A festive wish list for Christmas
+
+
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+
+  logo: assets/logo.png
+
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+
+  name: material
+  palette:
+    - scheme: slate
+      primary: black
+      accent: indingo
+
+nav:
+  - Home: index.md
+  - Watches: watches.md
+  - Tops: tops.md
+  - Gloves: gloves.md
+  # Add more pages as needed
+
+markdown_extensions:
+  - admonition
+  - tables
+  - codehilite:
+      linenums: true
+  - toc:
+      permalink: true
+  - attr_list
+
+
+plugins:
+  - search
+    # Add more social links as needed
