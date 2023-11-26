@@ -1,0 +1,11 @@
+:root {
+    --md-primary-fg-color:        hsla(214,26,12, 1);
+    --md-primary-fg-color--light: hsla(214,26,12, 1);
+    --md-primary-fg-color--dark:  hsla(214,26,12, 1);
+  }
+
+.logo-link {
+    display: inline-block;
+    height: 1em; 
+    margin-right: 0.2em;
+}
