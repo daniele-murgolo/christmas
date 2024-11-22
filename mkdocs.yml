@@ -7,6 +7,9 @@ site_description: A festive wish list for Christmas
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - stylesheets/script.js
+
 theme:
 
   logo: assets/logo.png
@@ -46,6 +49,7 @@ theme:
 nav:
   - Home: index.md
   - Watches: watches.md
+  - Belts: belts.md
   - Tops: tops.md
   - Gloves: gloves.md
   # Add more pages as needed
