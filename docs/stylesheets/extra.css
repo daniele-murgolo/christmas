@@ -1,12 +1,18 @@
 :root {
-    --md-primary-fg-color:        hsla(214,26,12, 1);
-    --md-primary-fg-color--light: hsla(214,26,12, 1);
-    --md-primary-fg-color--dark:  hsla(214,26,12, 1);
+    --md-primary-fg-color:        hsla(330,100,71, 1);
+    --md-primary-fg-color--light: hsla(330,100,71, 1);
+    --md-primary-fg-color--dark:  hsla(330,100,71, 1);
   }
+
+[data-md-color-primary="hotpink"] {
+	--md-primary-bg-color: #ff69b4;
+}
+
 
 .logo-link {
     display: inline-block;
     height: 1em; 
+    color: hotpink;
     margin-right: 0.2em;
 }
 
@@ -97,3 +103,13 @@
   from {opacity: .4}
   to {opacity: 1}
 }
+
+
+body {
+    background-image: url('/christmas/assets/background.jpeg');
+    background-size: cover; /* Ensures the image covers the entire screen */
+    background-attachment: fixed; /* Keeps the image fixed while scrolling */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents tiling */
+}
+

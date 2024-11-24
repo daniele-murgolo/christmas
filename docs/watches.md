@@ -6,7 +6,7 @@
 }
 </style>
 
-## [Timex 1983 Oro](https://timex.com/products/timex-automatic-1983-e-line-34mm-gold-tone-expansion-band-watch-tw2y07200)
+# [Timex 1983 Oro](https://timex.com/products/timex-automatic-1983-e-line-34mm-gold-tone-expansion-band-watch-tw2y07200)
 
 
 

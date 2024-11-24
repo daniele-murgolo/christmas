@@ -43,15 +43,16 @@ theme:
   name: material
   palette:
     - scheme: slate
-      primary: black
-      accent: indingo
+      primary: amber
+      accent: amber
 
 nav:
   - Home: index.md
-  - Watches: watches.md
-  - Belts: belts.md
-  - Tops: tops.md
-  - Gloves: gloves.md
+  - Cinture: belts.md
+  - Guanti: gloves.md
+  - Orologi: watches.md
+  - Scarpe: shoes.md
+  - Top: tops.md
   # Add more pages as needed
 
 markdown_extensions:
