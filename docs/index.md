@@ -10,7 +10,7 @@
 
 | EU | US | UK | 
 |:--:|:--:|:--:|
-| XL | XL | XL |
+| L | L | L |
 
 ## Pantaloni
 
