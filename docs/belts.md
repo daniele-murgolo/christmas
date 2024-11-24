@@ -5,7 +5,7 @@
     <img src="https://www.maximumhenry.com/cdn/shop/products/Very_Wide_St._Black_BRASS_1024x1024.jpg?v=1563340734" style="width:100%">
 </a></p>
 
-# [J.Crew Italian pull-up leather belt](https://www.jcrew.com/ch/p/mens/categories/accessories/belts/italian-pull-up-leather-belt/BK274?display=standard&fit=Classic&color_name=whiskey&colorProductCode=BK274)
+# [J.Crew Italian pull-up leather belt](https://www.jcrew.com/it/p/mens/categories/accessories/belts/italian-pull-up-leather-belt/BK274?display=standard&fit=Classic&color_name=whiskey&colorProductCode=BK274)
 
 
 <div class="slideshow-container">
@@ -13,7 +13,7 @@
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 2</div>
-    <p><a href="https://www.jcrew.com/ch/p/mens/categories/accessories/belts/italian-pull-up-leather-belt/BK274?display=standard&fit=Classic&color_name=whiskey&colorProductCode=BK274">
+    <p><a href="https://www.jcrew.com/it/p/mens/categories/accessories/belts/italian-pull-up-leather-belt/BK274?display=standard&fit=Classic&color_name=whiskey&colorProductCode=BK274">
         <img src="https://www.jcrew.com/s7-img-facade/BK274_PP1178?wid=2000&hei=2000" style="width:100%">
     </a></p>
     <div class="text">Cintura J.Crew</div>
