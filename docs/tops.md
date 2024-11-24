@@ -14,7 +14,7 @@
 
 [<img src="https://lp.cosstores.com/app001prod?set=source[/ad/1d/ad1ddbe9a997eb4a2d56f83bc34028349b931b26.jpg],origin[dam],type[DESCRIPTIVESTILLLIFE],device[hdpi],quality[80],ImageVersion[1]&call=url[file:/product/main]" alt="Cos" class="logo-link">](https://www.cos.com/it-it/men/menswear/knitwear/merino/product/textured-merino-wool-cardigan-mole-1249552002){:target="_blank"}
 
-# [Ralph Lauren Maglia in Lana a Girocollo](https://www.ralphlauren.it/it/maglia-in-lana-a-girocollo-625256.html?dwvar625256_colorname=Hunter%20Navy&cgid=men-clothing-jumpers-cardigans#start=1&cgid=men-clothing-jumpers-cardigans)
+# [Toast Donegal Wool High Neck Easy Sweater](https://eu.toa.st/products/donegal-wool-high-neck-easy-sweater-neptune-blue)
 
 
-[<img src="https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1488572_alternate10?$rl_4x5_zoom$" alt="Cos" class="logo-link">](https://www.ralphlauren.it/it/maglia-in-lana-a-girocollo-625256.html?dwvar625256_colorname=Hunter%20Navy&cgid=men-clothing-jumpers-cardigans#start=1&cgid=men-clothing-jumpers-cardigans){:target="_blank"}
+[<img src="https://eu.toa.st/cdn/shop/files/MKNUW09_neptuneblue_0_1080x.jpg?v=1730564644" alt="Toast" class="logo-link">](https://eu.toa.st/products/donegal-wool-high-neck-easy-sweater-neptune-blue){:target="_blank"}

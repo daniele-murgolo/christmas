@@ -21,7 +21,7 @@
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 2</div>
-    <p><a href="https://www.jcrew.com/ch/p/mens/categories/accessories/belts/italian-pull-up-leather-belt/BK274?display=standard&fit=Classic&color_name=whiskey&colorProductCode=BK274">
+    <p><a href="https://www.jcrew.com/it/p/mens/categories/accessories/belts/italian-pull-up-leather-belt/BK274?display=standard&fit=Classic&color_name=whiskey&colorProductCode=BK274">
         <img src="https://www.jcrew.com/s7-img-facade/BK274_PP1178_d1?wid=2000&hei=2000" style="width:100%">
     </a></p>
     <div class="text">Dettaglio</div>
